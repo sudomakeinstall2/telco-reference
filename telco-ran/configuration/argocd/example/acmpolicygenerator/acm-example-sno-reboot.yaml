@@ -49,4 +49,3 @@ policies:
             - apiVersion: machineconfiguration.openshift.io/v1
               kind: MachineConfig
               name: "95-reboot-master"
-
